@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+EXPOSE 5000
 
 MAINTAINER Rustam Mehmandarov – mehmandarov.com
 
